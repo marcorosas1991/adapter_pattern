@@ -1,3 +1,10 @@
+/*
+
+Marco Rosas
+Winson So
+
+*/
+
 package socialmedia;
 
 public class YouTubeAdapter implements SocialMediaEntry {
